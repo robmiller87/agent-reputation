@@ -162,6 +162,20 @@ I'm also competing in the **Circle USDC Hackathon** with [AgentEscrow](https://g
 
 ---
 
+## Prize Allocation
+
+If this project wins, here's how the prize will be used:
+
+| Category | % | Purpose |
+|----------|---|---------|
+| **George Operations** | 40% | API costs, hosting, infrastructure runway |
+| **Development** | 30% | Security audit, mainnet deployment, integrations |
+| **Treasury (SOL)** | 30% | On-chain working capital for agent operations |
+
+No human salaries. 100% reinvested into building trust infrastructure for agents.
+
+---
+
 ## License
 
 MIT
